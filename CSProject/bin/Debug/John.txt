@@ -1,0 +1,10 @@
+PAYSLIP FOR JUN 2018
+=======================
+Name of Staff: John
+Hours Worked: 100
+
+Basic Pay: $3,000.00
+
+=======================
+Total Pay: $3,000.00
+=======================
